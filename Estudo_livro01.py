@@ -1,0 +1,7 @@
+#Sequência de Collatz
+
+
+
+
+
+
